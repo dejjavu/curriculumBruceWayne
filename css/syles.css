@@ -10,7 +10,10 @@ main {
     background-color: #fff;
 }
 
-
+img.logo {
+    display: block;
+    margin: 0px auto;
+   }
 
 .titulos {
           font-size: 20;
@@ -31,6 +34,7 @@ h1 {
 span {font-size: 20px}
 
 #dPersonales {
+           padding-left: 20px;
            font-size: 20px;
            font-style: italic;
            font-weight: bold;
@@ -39,7 +43,7 @@ span {font-size: 20px}
 }
  
 .periodos {
-        text-indent: 40px;
+    padding-left: 20px;
         font-size: 20px;
         font-weight: bold;
 
@@ -48,7 +52,8 @@ span {font-size: 20px}
 
 .descripcion {list-style-type: none;
     font-size: 20px;
-    text-indent: 100px;
+    padding-left: 100px;
+    ;
 }
 
 footer {background-color: #005677;}

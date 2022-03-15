@@ -1,0 +1,54 @@
+body {   font-family: 'Times New Roman';
+         position: 100px;
+}
+
+header {       align-items: center }
+
+main {
+    text-indent: 20px;
+    margin-bottom: 100px;
+    background-color: #fff;
+}
+
+
+
+.titulos {
+          font-size: 20;
+          text-transform: uppercase;
+          text-align: left;
+          letter-spacing: 5px;
+          color: #005677;
+          background-color: #C4C4C4 ;
+}
+
+
+h1 {
+    font-size: 35;
+    text-align: center;
+    background-color: #C4C4C4;
+}
+
+span {font-size: 20px}
+
+#dPersonales {
+           font-size: 20px;
+           font-style: italic;
+           font-weight: bold;
+           list-style-type: none;
+
+}
+ 
+.periodos {
+        text-indent: 40px;
+        font-size: 20px;
+        font-weight: bold;
+
+}
+
+
+.descripcion {list-style-type: none;
+    font-size: 20px;
+    text-indent: 100px;
+}
+
+footer {background-color: #005677;}
